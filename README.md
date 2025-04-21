@@ -96,6 +96,8 @@
 ## PRINCE MD DEVELOPER TEAM
 
 | <a href="wa.me//94751543731?text=hellow_prince"><img src="https://files.catbox.moe/ls5xnp.jpg" width=160 height=160></a> | <a href="wa.me//94726400295?text=manul_official_tech"><img src="https://files.catbox.moe/lwlae1.jpg" width=160 height=160></a> | <a href="wa.me//94741354157?text=adhi_ofc"><img src="https://files.catbox.moe/z54jub.jpg" width=160 height=160></a> | <a href="https://wa.me//94714793760?text=hirushan_ofc"><img src="https://files.catbox.moe/5bqva8.jpg" width=160 height=160></a> | <a href="https://whatsapp.com/channel/0029VaiJsCOFXUud9s3vdk0P"><img src="https://files.catbox.moe/rf17a2.jpg" width=160 height=160></a> | <a href="https://whatsapp.com/channel/0029VbA6MyD6LwHbPn0Eqx2h"><img src="https://files.catbox.moe/13jvb6.jpg" width=160 height=160></a>
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| **[PRINCE OFC]()**</br>OWNER</br> | 
 
 
 
