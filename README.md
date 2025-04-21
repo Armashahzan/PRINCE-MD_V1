@@ -86,7 +86,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## DEPLOY BY SESSION ID (Qr code)
+## DEPLOY BY SESSION ID 
 
 <a href="https://prince-md-pair-session.onrender.com"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
