@@ -1,7 +1,7 @@
 
 <h1 align="center">PRINCE-MD V1</h1>
 
-## after deploy change your mode  👉 .mode button or .mode nonbutton
+## PRINCE MD FULL BUTTON BOT USE NORMAL WHATSAPP 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
