@@ -93,6 +93,13 @@
 <hr>
 <hr>
 
+## PRINCE MD ZIP DOWNLOAD
+
+<a href="https://www.mediafire.com/file/vczi5t2ldvomag9/Prince-Public.zip/file"><img src="" alt="PRINCE MD ZIP DOWNLOAD" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
 ## Workflow Deploy Code 👇
 
 
