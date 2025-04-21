@@ -57,7 +57,7 @@
 
 
 
-## PRINCE MD V1 ERROR SUPPORT BOT
+## PRINCE MD V1 ERROR SUPPORT 
 
 <a href="https://goto.now/3NtN2"><img src="" alt="PRINCE MD ERROR SUPPORT" width="150"></a>
 </br>
