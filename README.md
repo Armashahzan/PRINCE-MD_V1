@@ -94,7 +94,8 @@
 <hr>
 
 ## PRINCE MD DEVELOPER TEAM
-| <a href="wa.me//94751543731?text=hellow_prince"><img src="https://files.catbox.moe/ls5xnp.jpg" width=90 height=90></a> 
+
+| <a href="wa.me//94751543731?text=hellow_prince"><img src="https://files.catbox.moe/ls5xnp.jpg" width=90 height=90></a> | <a href="wa.me//94726400295?text=manul_official_tech"><img src="https://files.catbox.moe/lwlae1.jpg" width=90 height=90></a> | <a href="wa.me//94741354157?text=adhi_ofc"><img src="https://files.catbox.moe/z54jub.jpg" width=90 height=90></a> | <a href="https://wa.me//94714793760?text=hirushan_ofc"><img src="https://files.catbox.moe/5bqva8.jpg" width=90 height=90></a>
 
 
 
