@@ -95,6 +95,7 @@
 
 ## PRINCE MD DEVELOPER TEAM
 | <a href="https://api.whatsapp.com/send?phone=+94751543731&text="><img src="https://files.catbox.moe/ls5xnp.jpg" width=90 height=90></a> | <a href="https://api.whatsapp.com/send?phone=+94726400295&text="><img src="https://files.catbox.moe/lwlae1.jpg" width=90 height=90></a> | <a href="https://api.whatsapp.com/send?phone=+94741354157&text="><img src="https://files.catbox.moe/z54jub.jpg" width=90 height=90></a> | <a href="https://api.whatsapp.com/send?phone=+94714793760&text="><img src="https://files.catbox.moe/5bqva8.jpg" width=90 height=90></a> | <a href="https://whatsapp.com/channel/0029VaiJsCOFXUud9s3vdk0P"><img src="https://files.catbox.moe/rf17a2.jpg" width=90 height=90></a> | <a href="https://whatsapp.com/channel/0029VbA6MyD6LwHbPn0Eqx2h"><img src="https://files.catbox.moe/13jvb6.jpg" width=90 height=90></a>
+
 |**[PRINCE OFC](https://api.whatsapp.com/send?phone=+94751543731&text=)**</br>FOUNDER</br> | **[MANUL OFC](https://api.whatsapp.com/send?phone=+94726400295&text=)**</br>  DEVELOPER</br> | **[ADHI OFC](https://api.whatsapp.com/send?phone=+94741354157&text=)**</br>WEB DESIGNER</br> | **[HIRUSHAN OFC](https://api.whatsapp.com/send?phone=+94714793760&text=)**</br>BUG TESTER | **[CRD TEAM](https://whatsapp.com/channel/0029VaiJsCOFXUud9s3vdk0P)**</br>CYBER RED DRAGONS | **[KOD TEAM](https://whatsapp.com/channel/0029VbA6MyD6LwHbPn0Eqx2h)**</br>KINDOM OF DEVILS |
 
 
