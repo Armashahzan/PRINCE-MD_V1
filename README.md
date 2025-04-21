@@ -94,20 +94,6 @@
 <hr>
 
 
-## PRINCE MD MAIN DEVELOPERS
-
-<a href="wa.me//94751543731?text=hellow_prince"><img src="" alt="PRINCE OFC" width="150"></a>
-</br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
-<a href="wa.me//94726400295?text=manul_official_tech"><img src="" alt="MANUL OFFICIAL TECH" width="150"></a>
-</br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
-<a href="wa.me//94741354157?text=cyber_adhi_ofc"><img src="" alt="CYBER ADHI OFC" width="150"></a>
-</br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
 
 
 ## PRINCE MD ZIP DOWNLOAD
