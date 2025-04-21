@@ -5,7 +5,7 @@ services:
     runtime: docker
     region: Frankfurt
     branch: V-3.00
-    repo: https://github.com/Armashahzan/PRINCE-MD_V1/tree/main
+    repo: https://github.com/Armashahzan/PRINCE-MD_V1
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
