@@ -66,7 +66,7 @@
 
 
 
-## 💡 FOLLOW OUR CHANNEL
+## 💡 FOLLOW PRINCE MD WHATSAPP CHANNAL
 
 <a href="https://whatsapp.com/channel/0029VaxOi76K5cDJkV9UYR0Q"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
