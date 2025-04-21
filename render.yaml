@@ -4,7 +4,7 @@ services:
     name: prince-md
     runtime: docker
     region: Frankfurt
-    branch: V-3.00
+    branch: main
     repo: https://github.com/Armashahzan/PRINCE-MD_V1
     #buildCommand: |
     #  apt-get update && \
